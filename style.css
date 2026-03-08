@@ -1,0 +1,16 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    padding: 0px;
+    border: 0px;
+}
+
+body{
+    text-align:center;
+}
+
+
+p{
+    color: black;
+    font-size: large;
+}
